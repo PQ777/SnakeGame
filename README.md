@@ -7,6 +7,8 @@
 <b>Snake.io 콘솔 모작
 
 ※난이도 및 프레임워크 추가 예정※
+  
+사용 언어 / 툴: C++, Windows.h, Visual Studio
 
 <br>
 
@@ -30,6 +32,8 @@
 <b>Snake Game</b>
   
 ※ Difficulty and FrameWork will be added ※
+  
+Language/Tools: C++, Windows.h, Visual Studio
 
 
 ⭐ How to use ⭐
