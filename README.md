@@ -54,8 +54,8 @@ Function: Score function / Restart, Exit button
 
 💡 Play 💡
 -------------
-  ![snake1](https://github.com/PQ777/SnakeGame/assets/102477933/9399955f-c396-418a-b14f-78199fe3d54c)
-  
+![snake1](https://github.com/PQ777/SnakeGame/assets/102477933/80c8bee2-dde0-4079-a430-8998b08a52ac)
+
   
   
 
